@@ -8,6 +8,14 @@
 
 <h1>AI Chatbot Landing Page</h1>
 
+<section class="testimonials">
+    ...
+</section>
+
+<section class="pricing">
+    ...
+</section>
+
 <script src="script.js"></script>
 
 </body>
