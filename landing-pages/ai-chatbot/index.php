@@ -13,7 +13,11 @@
 </section>
 
 <section class="pricing">
-    ...
+    <h2>What Our Customers Say</h2>
+
+    <div class="pricing-card">
+        <p>"Amazing chatbot software!"</p>
+    </div>
 </section>
 
 <script src="script.js"></script>
